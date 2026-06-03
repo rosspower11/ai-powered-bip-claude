@@ -27,4 +27,4 @@ export const PUBLIC_COHORT_LABEL = "Cohort 3.0";
 export const BIP100_HEADLINE =
   "Stop guessing your way through Claude.";
 export const BIP100_SUB =
-  "Exclusive to BIP100 members. Six live workshops at 09:30 BST — the same ClaudeOS methodology, built for your cohort.";
+  "Exclusive to BIP100 members. Across 6 weeks I'll guide you step-by-step through the 6 levels I've designed to help you master Claude. One workshop, one level, every week.";

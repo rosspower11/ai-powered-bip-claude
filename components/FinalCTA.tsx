@@ -1,7 +1,6 @@
 import {
   COHORT_NUMBER,
   COHORT_START_SHORT,
-  COHORT_TAGLINE,
   SIGNUP_CTA,
   SIGNUP_URL,
   WORKSHOP_TIME,
@@ -28,8 +27,7 @@ export default function FinalCTA() {
             margin: "0 auto 20px",
           }}
         >
-          {COHORT_NUMBER} · {COHORT_TAGLINE.replace(" EXCLUSIVE", "")}. 6 weeks. 90 minutes a
-          week. Confidence comes from doing.
+          {COHORT_NUMBER} exclusive. 6 weeks. 90 minutes a week. Confidence comes from doing.
         </p>
         <div className="final-details anim">
           <div className="final-detail">

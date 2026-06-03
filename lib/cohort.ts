@@ -1,6 +1,6 @@
 /** BIP100 exclusive Claude cohort */
 export const COHORT_NUMBER = "BIP100";
-export const COHORT_TAGLINE = "BIP100 EXCLUSIVE";
+export const COHORT_TAGLINE = "EXCLUSIVE";
 
 export const SIGNUP_URL = "#signup";
 export const SIGNUP_CTA = "SIGN UP";

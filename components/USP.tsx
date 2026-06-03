@@ -8,7 +8,7 @@ export default function USP() {
           <div className="eyebrow eyebrow-light">6 WEEKS, 6 LIVE WORKSHOPS</div>
           <h2 className="white">How you&apos;ll learn live with me.</h2>
           <p className="usp-twoblock-join">
-            Exclusive to <strong>BIP100 members</strong> — same ClaudeOS methodology, your cohort.
+            Exclusive to <strong>BIP100 members</strong>.
           </p>
         </div>
         <div className="usp-twoblock-grid usp-twoblock-grid--single">
